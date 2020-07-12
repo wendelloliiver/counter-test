@@ -1,2 +1,2 @@
-# counter-test
+# Contador incrementado com cliques do mouse.
  
